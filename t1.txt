@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 hi
+=======
+hello
+>>>>>>> d579f98 (added)
 =======
 hello
 >>>>>>> d579f98 (added)
